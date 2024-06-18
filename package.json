@@ -1,0 +1,23 @@
+{
+  "name": "psychic-pancake",
+  "version": "1.0.0",
+  "description": "Node HTTP server challenge",
+  "main": "server.js",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cruzk346/psychic-pancake.git"
+  },
+  "author": "Kevin Cruz, USN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cruzk346/psychic-pancake/issues"
+  },
+  "homepage": "https://github.com/cruzk346/psychic-pancake#readme"
+}
